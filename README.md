@@ -1,7 +1,8 @@
-### Hi there 👋
+### Hi there 👋 Makesh Vineeth here!
 
-- 🔭 I’m currently working on Flutter and .NET Projects.
-- 🌱 I’m currently learning Ethical Hacking.
+- 💻 I am working on Flutter and .NET Projects.
+- 🌱 Currently learning Ethical Hacking.
+- 🎯 Deployed high-quality apps on Play Store.
 
 <!--
 **MakeshVineeth/MakeshVineeth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
