@@ -19,3 +19,5 @@ Here are some ideas to get you started:
 -->
 
 ![Vineeth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MakeshVineeth&show_icons=true&include_all_commits=true&count_private=true&show_owner=true&border_radius=20)&nbsp;&nbsp;
+
+![](https://komarev.com/ghpvc/?username=MakeshVineeth&color=green) ![](https://img.shields.io/twitter/follow/makesh_vineeth?style=social)
