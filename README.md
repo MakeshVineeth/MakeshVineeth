@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Vineeth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MakeshVineeth&show_icons=true&hide_border=true)&nbsp;&nbsp;
+![Vineeth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MakeshVineeth&show_icons=true&include_all_commits=true&count_private=true&show_owner=true&border_radius=20)&nbsp;&nbsp;
