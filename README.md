@@ -1,5 +1,6 @@
 ### Hi there 👋 Makesh Vineeth here!
 
+- 🎓 Pursuing Masters in Computer Applications.
 - 💻 I am working on Flutter and .NET Projects.
 - 🌱 Currently learning Ethical Hacking.
 - 🎯 Deployed high-quality apps on Play Store.
