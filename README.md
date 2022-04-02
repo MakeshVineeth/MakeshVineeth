@@ -4,6 +4,7 @@
 - 💻 I am working on Flutter and .NET Projects.
 - 🌱 Currently learning Ethical Hacking.
 - 🎯 Deployed high-quality apps on Play Store.
+- :link: Check out my [**resume**](https://drive.google.com/drive/folders/1W-chZ6iqi7F__6yn2kr6z_sRB113fz0n?usp=sharing)
 
 <!--
 **MakeshVineeth/MakeshVineeth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
