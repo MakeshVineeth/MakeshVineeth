@@ -21,4 +21,6 @@ Here are some ideas to get you started:
 
 ![Vineeth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MakeshVineeth&show_icons=true&include_all_commits=true&count_private=true&show_owner=true&border_radius=20)&nbsp;&nbsp;
 
-![](https://komarev.com/ghpvc/?username=MakeshVineeth&color=green) [![Linkedin](https://img.shields.io/badge/linked-in-369?style=flat-square&logo=linkedin&logoColor=white&color=blue)](https://www.linkedin.com/in/makeshvineeth)
+#### Find me on:
+
+[![Instagram](https://img.shields.io/badge/makeshvineeth-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/makeshvineeth/) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/makeshvineeth/) [![Twitter](https://img.shields.io/badge/makesh_vineeth-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/makesh_vineeth)
